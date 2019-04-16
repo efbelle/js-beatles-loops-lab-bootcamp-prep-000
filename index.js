@@ -22,7 +22,7 @@ function theBeatlesPlay(musicians, instruments){
    var newVar=[];
    
    do{
-     newVar.push("I love the Beatles");
+     newVar.push("I love the Beatles!");
       number++;
    }while(number < 15)
   
